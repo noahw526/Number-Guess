@@ -10,7 +10,7 @@ This program chooses a random secret number between 1 and 100, and then prompts 
 ## Setup
 Windows Installation: ```Command Prompt> java -jar "D:\CS 232\Lab1A\dist\Lab1A.jar```
 ## Usage
-As simple as this program is, it still proves to be a firm example for beggining code developers. The function of the program is as the title says, it guesses the random number that you have chosen! For new coders, this might be the first learning example they might use.
+As simple as this program is, it still proves to be a firm example for beggining code developers. The function of the program is as the title says, it chooses a random number and lets the player try and guess it! For new coders, this might be the first learning example they might use.
 ## How To
 Once launched the player will be prompted to guess a number from 1-100. If the player's guess is different from the secret number, the program should produce messages to tell the player whether the guess was too high or too low. You should keep guessing the number it has chosen until you have guess the secret number. Once you finally guess the correct number, it will tell you how many guesses it took you until you where correct!
 ## Inside The Code
